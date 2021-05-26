@@ -1,0 +1,33 @@
+#schoolname{
+    font-size: 16px;
+    color: white;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+#slide{
+    width: 100%;
+    background-color:  skyblue;
+}
+#video{
+    margin-top: 10px;
+}
+#schoolmap{
+    width: 100%;
+}
+#school{
+    width: 450px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_head span{
+    color: #ff7700;
+}
